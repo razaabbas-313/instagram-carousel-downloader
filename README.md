@@ -24,5 +24,4 @@ A lightweight, open-source web application built with Streamlit and Python that 
 ## 🚀 Live Demo
 
 Try the hosted version directly in your browser:  
-👉 **[Launch InstaSlide](https://share.streamlit.io/)** *(Replace with your actual Streamlit App URL)*
-
+👉 **[Launch InstaSlide](https://instaslide.streamlit.app/)** 
